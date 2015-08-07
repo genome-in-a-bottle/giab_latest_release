@@ -1,5 +1,5 @@
 # giab_latest_release
-his repository contains information about latest release from GIAB project 
+This repository contains information about latest release from GIAB project 
 ********************************************************************************
 
 1. The latest release for NA12878_HG001 is under:
