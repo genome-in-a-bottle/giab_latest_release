@@ -7,6 +7,13 @@ This repository contains information about latest release from Genome in a Bottl
    ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/NA12878_HG001/latest/
 
 
-2. The latest release for AshkenazimTrio HG002_NA24385_son  is under:
+2. The latest releases for AshkenazimTrio are under:
 
    ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/AshkenazimTrio/HG002_NA24385_son/latest/
+   ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/AshkenazimTrio/HG003_NA24149_father/latest/
+   ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/AshkenazimTrio/HG004_NA24143_mother/
+
+
+3. The latest releases for ChineseTrio HG005_NA24631_son is under: 
+
+   http://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/ChineseTrio/HG005_NA24631_son/latest/
