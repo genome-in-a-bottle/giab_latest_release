@@ -4,7 +4,7 @@ This repository contains information about latest release from Genome in a Bottl
 
 1. The latest release for NA12878_HG001 is under:
 
-   [latest](https://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/NA12878_HG001/latest)
+   [https://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/NA12878_HG001/latest](https://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/release/NA12878_HG001/latest)
 
 
 
